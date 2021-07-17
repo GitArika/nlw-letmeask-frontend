@@ -4,6 +4,7 @@
 - [x] Create Realtime Database
 - [x] Enable Google authentication
 - [x] Protect with enviroment vars.
+- [x] Style with scss.
 
 ## Application Config
 
